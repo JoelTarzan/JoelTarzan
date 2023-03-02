@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joeltarzan" alt="joeltarzan" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel and React**
+- 🌱 I’m currently learning **NestJs and Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
